@@ -4,7 +4,7 @@ def unsafe?(60)
  else
  		false
    end
- end 
+ end
 
 
 
